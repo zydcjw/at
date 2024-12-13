@@ -1,4 +1,6 @@
 fn main() {
+    let a = 1+1;
+    println!("a={}",a);
     println!("hello world")
 }
 
